@@ -22,11 +22,3 @@ Two machine learning models are employed for prediction:
 
 It is possible that more features or more advanced machine learning algorithms could improve the accuracy of the models. Additionally, it may be useful to investigate other factors that contribute to the occurrence of freezing gait events, such as cognitive or environmental factors.
 
-## Usage
-
-To use the code in this repository:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/tayalsaksham008/Parkinsons-FOG
