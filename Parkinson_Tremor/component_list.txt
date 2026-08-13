@@ -1,0 +1,11 @@
+ESP32 DevKit V1
+MPU6050 / MPU6500 IMU Sensor
+SSD1306 OLED Display
+Coin Vibration Motor
+BC547 NPN Transistor
+1 kΩ Resistor
+10 kΩ Resistor
+1N4007 Diode
+3.7 V Li-ion Battery
+Breadboard
+Jumper Wires
