@@ -372,10 +372,9 @@ This repository is developed for **academic and educational purposes only**. It 
 
 ---
 
-# Authors
+# Author
 
 * **Aradhya Langer**
-* Project collaborators
 
 ---
 
